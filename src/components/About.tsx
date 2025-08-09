@@ -31,10 +31,11 @@ const About = () => {
   ];
 
   const achievements = [
-    "IIT JAM AIR 30 - All India Rank 30",
+    "IIT JAM 2024 - All India Rank 30",
     "Top 1% in state board examinations",
     "Multiple academic excellence awards",
     "Active contributor to data science community"
+    "Active film critic"
   ];
 
   return (
