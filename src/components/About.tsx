@@ -108,6 +108,7 @@ const About = () => {
     </div>
     <div className="absolute -bottom-4 left-1/2 transform -translate-x-1/2 bg-gradient-card border border-batman-gold rounded-lg px-6 py-2">
       <p className="text-batman-gold font-montserrat font-semibold text-sm">Arpan Samanta</p>
+      </div>
     </div>
   </div>
 </div>
