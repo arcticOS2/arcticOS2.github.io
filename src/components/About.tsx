@@ -34,7 +34,8 @@ const About = () => {
     "IIT JAM 2024 - All India Rank 30",
     "Top 1% in state board examinations",
     "Multiple academic excellence awards",
-    "Active contributor to data science community"
+    "Frequent contributor to data science community",
+    "Active film critic"
   ];
 
   return (
