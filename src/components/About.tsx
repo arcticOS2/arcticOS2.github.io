@@ -106,7 +106,7 @@ const About = () => {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <div className="absolute -bottom-4 left-1/2 transform -translate-x-1/2 bg-gradient-card border border-batman-gold rounded-lg px-6 py-2">
+              <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-gradient-card border border-batman-gold rounded-lg px-4 py-1">
                 <p className="text-batman-gold font-montserrat font-semibold text-sm">Arpan Samanta</p>
               </div>
             </div>
