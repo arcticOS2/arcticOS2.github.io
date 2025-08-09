@@ -70,7 +70,7 @@ const About = () => {
                   a career focused on extracting actionable insights from complex datasets.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Beyond academics, I'm a movie enthusiast who enjoys analyzing storytelling patterns 
+                  Beyond academics, I'm a movie enthusiast who enjoys analysing storytelling patterns 
                   and narrative structures - skills that surprisingly translate well to data analysis 
                   and presentation.
                 </p>
@@ -98,18 +98,17 @@ const About = () => {
 
           {/* Profile Image */}
           <div className="flex justify-center lg:justify-end order-1 lg:order-2">
-            <div className="relative">
-              <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-batman-gold shadow-glow-gold">
-                <img 
-                  src="/lovable-uploads/9b168380-4115-49d0-91c9-32109dab3bb8.png" 
-                  alt="Arpan Samanta Profile" 
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <div className="absolute -bottom-1 left-1/2 transform -translate-x-1/2 bg-gradient-card border border-batman-gold rounded-lg px-4 py-1">
-                <p className="text-batman-gold font-montserrat font-semibold text-sm">Arpan Samanta</p>
-              </div>
+            <div className="relative w-80 h-80 rounded-full overflow-hidden border-4 border-batman-gold shadow-glow-gold">
+                  <img
+                      src="/lovable-uploads/9b168380-4115-49d0-91c9-3219dab3bb8b.png"
+                      alt="Arpan Samanta Profile"
+                      className="w-full h-full object-cover"
+                     />
+                  <div className="absolute bottom-2 left-1/2 transform -translate-x-1/2 bg-gradient-card border border-batman-gold rounded-lg px-4 py-1">
+                  <p className="text-batman-gold font-montserrat font-semibold text-sm">Arpan Samanta</p>
+                  </div>
             </div>
+
           </div>
         </div>
 
