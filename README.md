@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: [https://lovable.dev/projects/8b4b3fff-6abc-446c-a5a5-3c35b314f4d5](https://arcticos2.github.io/)
+**URL**: https://arcticos2.github.io/
 
 
 **Edit a file directly in GitHub**
@@ -19,9 +19,6 @@
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
-
-This project is built with:
 
 - Vite
 - TypeScript
