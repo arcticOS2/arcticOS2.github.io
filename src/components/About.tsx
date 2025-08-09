@@ -113,9 +113,6 @@ const About = () => {
 </div>
 
 
-          </div>
-        </div>
-
         {/* Education Timeline - moved below */}
         <div className="mb-16">
           <div>
