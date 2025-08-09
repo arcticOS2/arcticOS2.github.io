@@ -35,7 +35,6 @@ const About = () => {
     "Top 1% in state board examinations",
     "Multiple academic excellence awards",
     "Active contributor to data science community"
-    "Active film critic"
   ];
 
   return (
