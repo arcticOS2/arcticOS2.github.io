@@ -101,7 +101,7 @@ const About = () => {
   <div className="relative">
     <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-batman-gold shadow-glow-gold">
       <img
-        src="/lovable-uploads/9b168380-4115-49d0-91c9-3219dab3bb8b.png"
+        src="https://github.com/arcticOS2/arcticOS2.github.io/blob/main/public/lovable-uploads/9b168380-4115-49d0-91c9-32109dab3bb8.png"
         alt="Arpan Samanta Profile"
         className="w-full h-full object-cover"
       />
