@@ -4,11 +4,11 @@ import { Download, FileText, ExternalLink } from "lucide-react";
 
 const CV = () => {
   const handleDownloadCV = () => {
-    window.open("https://drive.google.com/file/d/1s0IrrXc769jhYcMuWaeT9fYPiYn_iTES/view?usp=drive_link", '_blank');
+    window.open("https://drive.google.com/file/d/1bbsXuoUuxndO__7V7hBQCTp3AflTxkd5/view?usp=drive_link", '_blank');
   };
 
   const handleViewCV = () => {
-    window.open("https://drive.google.com/file/d/1s0IrrXc769jhYcMuWaeT9fYPiYn_iTES/view?usp=drive_link", '_blank');
+    window.open("https://drive.google.com/file/d/1bbsXuoUuxndO__7V7hBQCTp3AflTxkd5/view?usp=drive_link", '_blank');
   };
 
   return (
